@@ -6,11 +6,11 @@
 const AlexanderCruciata = {
   pronouns: "he" | "him",
   code: [C/C++, HTML, CSS, Python, Javascript, Java, Rust],
-  tools: [Blockchain, AI Bot, Solana, Smart Contract, Telegram API, React JS, Node Js, Docker, Git],
+  tools: [Blockchain, AI Bot, Solana , Telegram API, Discord.js, React JS, Node Js, Docker, Git],
   status: "I am learning Blockchain Technologies"
 }
 ```
-- 🌱 Keen on **AI Bot Development**
+- 🌱 Keen on **AI Bot Development - Crypto Trading | Telegram | Discord**
 - 💻 I’m currently learning **Cryto Trading and Telegram Bots**
 - ⚡ Interested in **solving real world problems**
 - ☁️ Eager to learn **Blockchain Technologies**
