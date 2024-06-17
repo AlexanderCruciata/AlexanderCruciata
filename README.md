@@ -5,7 +5,8 @@
 ```javascript
 const AlexanderCruciata = {
   pronouns: "he" | "him",
-  code: [C/C++, HTML, CSS, Python, Javascript, Java, Rust],
+  skills: [Front-End, SEO, Algorithmic Programming]
+  code: [C/C++, HTML, CSS, Javascript, Python, Java, Rust],
   tools: [Blockchain, AI Bot, Solana , Telegram API, Discord.js, React JS, Node Js, Docker, Git],
   status: "I am learning Blockchain Technologies"
 }
